@@ -1,0 +1,3 @@
+[submodule "template_full_stack"]
+	path = template_full_stack
+	url = git@github.com:CodeMaster4711/template_full_stack.git
